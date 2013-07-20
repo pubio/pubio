@@ -1,4 +1,4 @@
 pubio
 =====
 
-pub.io public api
+Node.js public API for http://pub.io
